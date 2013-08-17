@@ -48,12 +48,19 @@
 - ### Adapt or perish (Adaptive Content)
   #### immonet (precious)
   @jrez
+- ### Ingress
+  #### SinnerSchrader (draußen) **Treffen am Auto im Foyer!!**
+  Rainer
+  
   
 ## 15h
 
 - ### Out of screen interfaces
   #### Innogames
   Rosa and Marie
+- ### Fighting Prism – with Freifunk
+  #### Eventim
+  Fabian, Rainer, Monic
 - ### New music experience – the future of the music video
   #### Goodgame
   Fjaer
