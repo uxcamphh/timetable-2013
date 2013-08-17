@@ -48,3 +48,31 @@
 - ### Adapt or perish (Adaptive Content)
   #### immonet (precious)
   @jrez
+  
+## 15h
+
+- ### Out of screen interfaces
+  #### Innogames
+  Rosa and Marie
+- ### New music experience – the future of the music video
+  #### Goodgame
+  Fjaer
+- ### Big Brands in UX Design
+  #### immonet (precious)
+  Marc
+
+## 16h
+
+- ### Designing for small interfaces- 
+  #### Innogames
+  Rosa and Marie
+- ### Physical UX
+  #### Eventim
+  Sven
+- ### Past + future of zooming
+  #### Goodgame
+  Matthias
+- ### Hidden secrets of user motivation
+  #### immonet (precious)
+  Nadja
+
